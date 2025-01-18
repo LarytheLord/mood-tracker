@@ -1,4 +1,4 @@
 streamlit
-textblob 
+textblob
 plotly
 pandas
