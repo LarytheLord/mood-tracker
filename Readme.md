@@ -95,3 +95,7 @@ We plan to enhance the **Mood Tracker with Sentiment Analysis** by:
 ## Conclusion  
 
 The **Mood Tracker with Sentiment Analysis** is the result of teamwork and innovation. It demonstrates how technology can provide emotional insights in a simple and effective way. By leveraging each team member’s strengths, we created a functional, user-friendly, and visually appealing application. This project reflects our shared commitment to learning, collaboration, and delivering impactful solutions.  
+
+
+#Demo Video 
+https://youtu.be/XmLyWla774U?si=Una8QVVa6YVqD0gH
